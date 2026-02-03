@@ -1,6 +1,6 @@
-# 📦 Inventory & Ticketing System - Goodeva Technology Simulation
+# 📦 Inventory & Ticketing System
 
-Proyek ini adalah aplikasi Full-Stack yang dibangun sebagai simulasi sistem manajemen inventaris dan pelaporan masalah (ticketing) internal. Aplikasi ini dirancang untuk memenuhi kualifikasi posisi Full Stack Developer di Goodeva Technology.
+Proyek ini adalah aplikasi Full-Stack yang dibangun sebagai simulasi sistem manajemen inventaris dan pelaporan masalah (ticketing) internal.
 
 ## 🚀 Fitur Utama
 
